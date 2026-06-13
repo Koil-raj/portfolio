@@ -1,7 +1,7 @@
 
 // Typing Effect
 var typed = new Typed('#wrd', {
-    strings: ['Python Program','C Program', 'C++ Program', 'Java Program', 'Full-stack developer'],
+    strings: ['Cloud Infrastructure', 'DevOps', 'Python Program', 'Kubernetes Administration', 'CI/CD Automation', 'Cloud Automation'],
     typeSpeed: 100,
     loop: true
 });
